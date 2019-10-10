@@ -1,5 +1,5 @@
 
 document.addEventListener('DOMContentLoaded', () => {
-  let displayElement = document.getElementById('display')
+  let displayElement = document.getElementById('display');
   displayElement.innerHTML = "Hello World 123"
-})
+});
